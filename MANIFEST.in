@@ -1,6 +1,0 @@
-# Include README and license in source distribution
-include README.md
-include LICENSE
-
-# If you ever have extra files (e.g. templates), include them:
-# recursive-include templates *
